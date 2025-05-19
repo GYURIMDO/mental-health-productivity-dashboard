@@ -19,7 +19,7 @@ The goal is to visualize key patterns, highlight at-risk groups, and communicate
 - Git for version control
 
 ## Dataset:
-- Source: [Student Mental Health Survey Dataset on Kaggle](https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey)
+- Source: [Student Mental Health Survey Dataset on Kaggle](https://www.kaggle.com/code/saadatkhalid/student-mental-health-vs-cgpa-eda#About-Dataset)
 
 ## Outcome:
 The final deliverable includes a dashboard and a summary of insights, offering recommendations to improve student wellness based on data-driven evidence.
